@@ -1,6 +1,6 @@
 # 🛍️ Black Friday Sales Prediction
 
-## 📌 Project Overview
+## 📌 Project Overview11
 
 The Black Friday Sales Prediction project aims to predict the purchase amount of customers during Black Friday sales events using Machine Learning techniques. By analyzing customer demographics and product-related information, the model estimates how much a customer is likely to spend.
 
